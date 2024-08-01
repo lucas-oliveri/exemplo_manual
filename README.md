@@ -13,5 +13,27 @@ Conteudo sub-título 1
 ## Sub-título 2
 Conteudo sub-título 2
 
-## Sub-título 1
+## Sub-título 3
 Conteudo sub-título 3
+
+# Vantagens
+
+1. Primeiro
+2. Segundo
+3. Terceiro
+4. Quarto
+
+# Exemplos de Códigos
+Python
+```python
+print("Olá mundo")
+```
+Bash
+```bash
+apt-get install meu-projeto
+```
+### Links
+[Clique aqui](https://youtube.com)
+<br>
+ou acesse https://youtube.com
+
