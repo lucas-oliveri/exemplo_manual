@@ -36,4 +36,13 @@ apt-get install meu-projeto
 [Clique aqui](https://youtube.com)
 <br>
 ou acesse https://youtube.com
+<br>
+Para acessar a instalação avançada [Clique aqui](INSTALACAO.md)
+
+
+
+
+
+
+
 
