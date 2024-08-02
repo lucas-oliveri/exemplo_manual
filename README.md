@@ -39,7 +39,8 @@ ou acesse https://youtube.com
  <br>
 Para acessar a instalação avançada [Clique aqui](INSTALACAO.md)
 
-
+Clique duas vezes  no arquivo `setup.py`
+<img src=""
 
 
 
